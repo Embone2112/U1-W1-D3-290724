@@ -1,0 +1,82 @@
+.img-container{
+    text-align: center;
+    width: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.minititle{
+    display: block;
+    text-align: center;
+    color: #004c4d;
+    background: color #fdfbf1;
+    padding-top: 20px; padding-left: 100px; padding-right:100px; padding-bottom: 20px; background-color: #fdfbf1;
+    font-weight: bold;
+    color:#004c4d;
+    font-size: 1em;
+}
+.title{
+    text-align: center;
+    font-size: 34px;
+    margin-left: 450px;
+    margin-right: 450px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 8px;
+}
+.subtitle{
+    text-align: left;
+    margin-left: 470px;
+    margin-right: 470px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+.video{  display: block;
+    margin-left: auto;
+    margin-right: auto;}
+    .crediti{
+        color: grey;
+        text-align: center;
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.feat{
+    color: red;
+    margin-left: 470px;
+}
+.ricette{
+    margin-left: 470px;
+    color: aquamarine;
+    margin-bottom: 5px;
+}
+.divisore1{
+    margin-left: 470px;
+}
+.ingredienti{
+    margin-left: 470px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.last-list{
+    margin-left: 470px;
+    text-align: left;
+}
+.last-p{
+    margin-left: 470px;
+    margin-right: 300px;
+}
+.fine{
+    margin-left: 450px;
+}
+.ulti{
+    margin-left: 470px;
+}
+.dough{
+    margin-left: 470px;
+    font-weight: bold;
+}
+.liri2{
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
